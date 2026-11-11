@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>국립부경대학교</p>
     <p>컴퓨터·인공지능공학부</p>
+    <p>김민준</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
