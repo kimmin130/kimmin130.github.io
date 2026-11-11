@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kimmin130.github.io/sitemap.xml
